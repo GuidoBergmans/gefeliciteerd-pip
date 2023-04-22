@@ -1,0 +1,10 @@
+{
+    "image2": "hwQQABAAAAAAAAAAAAAAAAAAAP//AAAAAAD/////AAAA8P////8PAAD/v/////8AAP/7/////wDw////////D/D///////8P8P///////w/w////////DwD///////8AAP///////wAA8P////8PAAAA/////wAAAAAA//8AAAAAAAAAAAAAAA==",
+    "image1": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAAAAAPD///7gRAAA/7vv7k9NAPC/u+7k/v8A8Lu7vtG7Qv+/u7v+37tL/7u7u07du1sPu7u7Tt27Ww+/u7v+37tL//C7u77Ru0L/8L+77uT+/wAA/7vv7k9NAADw///+4EQAAAAA8A8AAAAAAAAAAAAAAA==",
+    "image3": "hwQQABAAAAAAALC7u7sLAAAAsLM9MwsAAAA7s9XTCwAAADuz1VOzAACwM71VU70AALAzvVVTtQAAOzO9XTM1CwA7Mz1bPdULsO4z01s1VQvgIz7TWzVVC+siPtNaNVWzO+4z09o9Vb07MzPT2r3dvbA6M93avd2tAKA6Pdq9O6sAAKCqqqqqCg==",
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
